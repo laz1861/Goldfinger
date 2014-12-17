@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.48.4 r9939"
+   version="1.1"
+   id="svg2"
+   height="562.15625"
+   width="622.75"
+   sodipodi:docname="TestBoxes3.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="382.728"
+     inkscape:cy="351.18772"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="in" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(57.862704,-501.57644)">
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       id="g5445"
+       transform="matrix(0.3349446,0,0,0.83537764,-54.656749,985.61526)"
+       inkscape:label="Hershey Text">
+      <path
+         id="path5447"
+         transform="translate(10,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -6,-12 0,21 m 0,-21 13,0 m -13,10 8,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5449"
+         transform="translate(26,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d=""
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5451"
+         transform="translate(47,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M -9,-3 9,-3 M -9,3 9,3"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5453"
+         transform="translate(68,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d=""
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5455"
+         transform="translate(86,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 3,-12 -7,2 8,2 M 3,-12 3,9"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5457"
+         transform="translate(106,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5459"
+         transform="translate(126,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       inkscape:label="Hershey Text"
+       transform="matrix(0.3733777,0,0,0.79053647,-54.803317,825.62581)"
+       id="g5616">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -6,-12 0,21 m 0,-21 13,0 m -13,10 8,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(10,0)"
+         id="path5618" />
+      <path
+         inkscape:connector-curvature="0"
+         d=""
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(26,0)"
+         id="path5620" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M -9,-3 9,-3 M -9,3 9,3"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(47,0)"
+         id="path5622" />
+      <path
+         inkscape:connector-curvature="0"
+         d=""
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(68,0)"
+         id="path5624" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 5,-12 -10,0 -1,9 1,-1 3,-1 3,0 3,1 2,2 L 7,1 7,3 6,6 4,8 1,9 -2,9 -5,8 -6,7 -7,5"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(86,0)"
+         id="path5626" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(106,0)"
+         id="path5628" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(126,0)"
+         id="path5630" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       id="g5756"
+       transform="matrix(0.3429718,0,0,0.82910889,-54.686713,665.76152)"
+       inkscape:label="Hershey Text">
+      <path
+         id="path5758"
+         transform="translate(10,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -6,-12 0,21 m 0,-21 13,0 m -13,10 8,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5760"
+         transform="translate(26,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d=""
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5762"
+         transform="translate(47,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M -9,-3 9,-3 M -9,3 9,3"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5764"
+         transform="translate(68,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d=""
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5766"
+         transform="translate(86,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m 6,-9 -1,-2 -3,-1 -2,0 -3,1 -2,3 -1,5 0,5 1,4 2,2 L 0,9 1,9 4,8 6,6 7,3 7,2 6,-1 4,-3 1,-4 l -1,0 -3,1 -2,2 -1,3"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5768"
+         transform="translate(106,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5770"
+         transform="translate(126,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       inkscape:label="Hershey Text"
+       transform="matrix(0.41268131,0,0,0.6336662,243.30854,985.31269)"
+       id="g5912">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -6,-12 0,21 m 0,-21 13,0 m -13,10 8,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(10,0)"
+         id="path5914" />
+      <path
+         inkscape:connector-curvature="0"
+         d=""
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(26,0)"
+         id="path5916" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M -9,-3 9,-3 M -9,3 9,3"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(47,0)"
+         id="path5918" />
+      <path
+         inkscape:connector-curvature="0"
+         d=""
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(68,0)"
+         id="path5920" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 7,-12 -3,9 m -4,-21 14,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(86,0)"
+         id="path5922" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 5,-12 -10,0 -1,9 1,-1 3,-1 3,0 3,1 2,2 L 7,1 7,3 6,6 4,8 1,9 -2,9 -5,8 -6,7 -7,5"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(106,0)"
+         id="path5924" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(126,0)"
+         id="path5926" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       id="g6084"
+       transform="matrix(0.38396902,0,0,1.0498815,243.48516,826.01483)"
+       inkscape:label="Hershey Text">
+      <path
+         id="path6086"
+         transform="translate(10,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -6,-12 0,21 m 0,-21 13,0 m -13,10 8,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path6088"
+         transform="translate(26,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d=""
+         inkscape:connector-curvature="0" />
+      <path
+         id="path6090"
+         transform="translate(47,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M -9,-3 9,-3 M -9,3 9,3"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path6092"
+         transform="translate(68,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d=""
+         inkscape:connector-curvature="0" />
+      <path
+         id="path6094"
+         transform="translate(86,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -4,-8 2,-1 3,-3 0,21"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path6096"
+         transform="translate(106,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path6098"
+         transform="translate(126,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path6100"
+         transform="translate(146,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       inkscape:label="Hershey Text"
+       transform="matrix(0.39072871,0,0,0.71856751,243.4056,665.59571)"
+       id="g6276">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -6,-12 0,21 m 0,-21 13,0 m -13,10 8,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(10,0)"
+         id="path6278" />
+      <path
+         inkscape:connector-curvature="0"
+         d=""
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(26,0)"
+         id="path6280" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M -9,-3 9,-3 M -9,3 9,3"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(47,0)"
+         id="path6282" />
+      <path
+         inkscape:connector-curvature="0"
+         d=""
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(68,0)"
+         id="path6284" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -4,-8 2,-1 3,-3 0,21"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(86,0)"
+         id="path6286" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 5,-12 -10,0 -1,9 1,-1 3,-1 3,0 3,1 2,2 L 7,1 7,3 6,6 4,8 1,9 -2,9 -5,8 -6,7 -7,5"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(106,0)"
+         id="path6288" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(126,0)"
+         id="path6290" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(146,0)"
+         id="path6292" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       id="g6994"
+       transform="matrix(0.47029941,0,0,1,40.429619,577.88857)"
+       inkscape:label="Hershey Text">
+      <path
+         id="path6996"
+         transform="translate(10,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path6998"
+         transform="translate(24,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 0,4 -1,5 0,6 1,5 0,4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7000"
+         transform="translate(38,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -6,-7 0,-1 1,-2 1,-1 2,-1 4,0 2,1 1,1 1,2 0,2 L 5,-4 3,-1 -7,9 7,9"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7002"
+         transform="translate(58,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -2,-12 -3,1 -1,2 0,2 1,2 2,1 4,1 3,1 L 6,0 7,2 7,5 6,7 5,8 2,9 -2,9 -5,8 -6,7 -7,5 l 0,-3 1,-2 2,-2 3,-1 4,-1 2,-1 1,-2 0,-2 -1,-2 -3,-1 -4,0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       inkscape:label="Hershey Text"
+       transform="matrix(0.55104331,0,0,1,80.615808,577.91684)"
+       id="g7250">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(10,0)"
+         id="path7252" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,4 -1,5 0,6 1,5 0,4"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(24,0)"
+         id="path7254" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -5,-12 11,0 -6,8 3,0 2,1 1,1 L 7,1 7,3 6,6 4,8 1,9 -2,9 -5,8 -6,7 -7,5"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(38,0)"
+         id="path7256" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 6,-9 -1,-2 -3,-1 -2,0 -3,1 -2,3 -1,5 0,5 1,4 2,2 L 0,9 1,9 4,8 6,6 7,3 7,2 6,-1 4,-3 1,-4 l -1,0 -3,1 -2,2 -1,3"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(58,0)"
+         id="path7258" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       id="g7516"
+       transform="matrix(0.52649099,0,0,1,123.10359,577.90848)"
+       inkscape:label="Hershey Text">
+      <path
+         id="path7518"
+         transform="translate(10,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7520"
+         transform="translate(24,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 0,4 -1,5 0,6 1,5 0,4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7522"
+         transform="translate(38,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 3,-12 -7,2 8,2 M 3,-12 3,9"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7524"
+         transform="translate(58,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 3,-12 -7,2 8,2 M 3,-12 3,9"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       inkscape:label="Hershey Text"
+       transform="matrix(0.53500915,0,0,1,167.52901,577.9114)"
+       id="g7792">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(10,0)"
+         id="path7794" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,4 -1,5 0,6 1,5 0,4"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(24,0)"
+         id="path7796" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 5,-12 -10,0 -1,9 1,-1 3,-1 3,0 3,1 2,2 L 7,1 7,3 6,6 4,8 1,9 -2,9 -5,8 -6,7 -7,5"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(38,0)"
+         id="path7798" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -6,-7 0,-1 1,-2 1,-1 2,-1 4,0 2,1 1,1 1,2 0,2 L 5,-4 3,-1 -7,9 7,9"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(58,0)"
+         id="path7800" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       id="g8078"
+       transform="matrix(0.61517998,0,0,1,210.76514,577.93785)"
+       inkscape:label="Hershey Text">
+      <path
+         id="path8080"
+         transform="translate(10,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path8082"
+         transform="translate(24,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 0,4 -1,5 0,6 1,5 0,4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path8084"
+         transform="translate(38,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m 6,-9 -1,-2 -3,-1 -2,0 -3,1 -2,3 -1,5 0,5 1,4 2,2 L 0,9 1,9 4,8 6,6 7,3 7,2 6,-1 4,-3 1,-4 l -1,0 -3,1 -2,2 -1,3"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path8086"
+         transform="translate(58,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       inkscape:label="Hershey Text"
+       transform="matrix(0.55104331,0,0,1,-5.247166,577.91684)"
+       id="g8370">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(10,0)"
+         id="path8372" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,4 -1,5 0,6 1,5 0,4"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(24,0)"
+         id="path8374" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -6,-7 0,-1 1,-2 1,-1 2,-1 4,0 2,1 1,1 1,2 0,2 L 5,-4 3,-1 -7,9 7,9"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(38,0)"
+         id="path8376" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(58,0)"
+         id="path8378" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       id="g6994-2"
+       transform="matrix(0.47029941,0,0,1,341.10429,579.04122)"
+       inkscape:label="Hershey Text">
+      <path
+         id="path6996-9"
+         transform="translate(10,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path6998-5"
+         transform="translate(24,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 0,4 -1,5 0,6 1,5 0,4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7000-0"
+         transform="translate(38,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -6,-7 0,-1 1,-2 1,-1 2,-1 4,0 2,1 1,1 1,2 0,2 L 5,-4 3,-1 -7,9 7,9"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7002-9"
+         transform="translate(58,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -2,-12 -3,1 -1,2 0,2 1,2 2,1 4,1 3,1 L 6,0 7,2 7,5 6,7 5,8 2,9 -2,9 -5,8 -6,7 -7,5 l 0,-3 1,-2 2,-2 3,-1 4,-1 2,-1 1,-2 0,-2 -1,-2 -3,-1 -4,0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       inkscape:label="Hershey Text"
+       transform="matrix(0.55104331,0,0,1,381.29048,579.06949)"
+       id="g7250-5">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(10,0)"
+         id="path7252-7" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,4 -1,5 0,6 1,5 0,4"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(24,0)"
+         id="path7254-1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -5,-12 11,0 -6,8 3,0 2,1 1,1 L 7,1 7,3 6,6 4,8 1,9 -2,9 -5,8 -6,7 -7,5"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(38,0)"
+         id="path7256-7" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 6,-9 -1,-2 -3,-1 -2,0 -3,1 -2,3 -1,5 0,5 1,4 2,2 L 0,9 1,9 4,8 6,6 7,3 7,2 6,-1 4,-3 1,-4 l -1,0 -3,1 -2,2 -1,3"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(58,0)"
+         id="path7258-4" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       id="g7516-7"
+       transform="matrix(0.52649099,0,0,1,423.77826,579.06113)"
+       inkscape:label="Hershey Text">
+      <path
+         id="path7518-6"
+         transform="translate(10,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7520-2"
+         transform="translate(24,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 0,4 -1,5 0,6 1,5 0,4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7522-4"
+         transform="translate(38,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 3,-12 -7,2 8,2 M 3,-12 3,9"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7524-4"
+         transform="translate(58,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 3,-12 -7,2 8,2 M 3,-12 3,9"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       inkscape:label="Hershey Text"
+       transform="matrix(0.53500915,0,0,1,468.20368,579.06405)"
+       id="g7792-4">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(10,0)"
+         id="path7794-4" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,4 -1,5 0,6 1,5 0,4"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(24,0)"
+         id="path7796-4" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 5,-12 -10,0 -1,9 1,-1 3,-1 3,0 3,1 2,2 L 7,1 7,3 6,6 4,8 1,9 -2,9 -5,8 -6,7 -7,5"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(38,0)"
+         id="path7798-2" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -6,-7 0,-1 1,-2 1,-1 2,-1 4,0 2,1 1,1 1,2 0,2 L 5,-4 3,-1 -7,9 7,9"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(58,0)"
+         id="path7800-1" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       id="g8078-8"
+       transform="matrix(0.61517998,0,0,1,511.43981,579.0905)"
+       inkscape:label="Hershey Text">
+      <path
+         id="path8080-6"
+         transform="translate(10,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path8082-6"
+         transform="translate(24,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 0,4 -1,5 0,6 1,5 0,4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path8084-6"
+         transform="translate(38,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m 6,-9 -1,-2 -3,-1 -2,0 -3,1 -2,3 -1,5 0,5 1,4 2,2 L 0,9 1,9 4,8 6,6 7,3 7,2 6,-1 4,-3 1,-4 l -1,0 -3,1 -2,2 -1,3"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path8086-8"
+         transform="translate(58,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="stroke:#00ffff;stroke-opacity:1"
+       inkscape:label="Hershey Text"
+       transform="matrix(0.55104331,0,0,1,295.4275,579.06949)"
+       id="g8370-7">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(10,0)"
+         id="path8372-3" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 0,4 -1,5 0,6 1,5 0,4"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(24,0)"
+         id="path8374-8" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -6,-7 0,-1 1,-2 1,-1 2,-1 4,0 2,1 1,1 1,2 0,2 L 5,-4 3,-1 -7,9 7,9"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(38,0)"
+         id="path8376-9" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -1,-12 -3,1 -2,3 -1,5 0,3 1,5 2,3 3,1 2,0 3,-1 2,-3 1,-5 0,-3 -1,-5 -2,-3 -3,-1 -2,0"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         transform="translate(58,0)"
+         id="path8378-9" />
+    </g>
+    <path
+       id="cutout"
+       d="m -8.115224,501.83783 523.259024,0 c 27.4216,0 49.49748,22.07587 49.49748,49.49747 l 0,462.6499 c 0,27.4216 -22.07588,49.4975 -49.49748,49.4975 l -523.259024,0 c -27.4216,0 -49.49748,-22.0759 -49.49748,-49.4975 l 0,-462.6499 c 0,-27.4216 22.07588,-49.49747 49.49748,-49.49747 z"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4.4000001;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g12372"
+       transform="matrix(1.2642687,0,0,1.3353271,79.069431,530.68389)"
+       inkscape:label="Hershey Text"
+       style="stroke:#00ffff;stroke-opacity:1">
+      <path
+         id="path12374"
+         transform="translate(9,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 0,-12 -8,9 M 0,-12 8,9 M -5,2 5,2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12376"
+         transform="translate(27,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m 6,-2 -2,-2 -2,-1 -3,0 -2,1 -2,2 -1,3 0,2 1,3 2,2 2,1 3,0 2,-1 2,-2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12378"
+         transform="translate(43,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -3,-5 0,14 m 0,-8 1,-3 2,-2 2,-1 3,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12380"
+         transform="translate(57,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M -6,-5 0,9 M 6,-5 0,9 l -2,4 -2,2 -2,1 -1,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12382"
+         transform="translate(69,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 0,-12 0,9"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12384"
+         transform="translate(77,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 1,1 1,-1 -1,-1 -1,1 m 1,7 0,14"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12386"
+         transform="translate(90,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m 6,-2 -2,-2 -2,-1 -3,0 -2,1 -2,2 -1,3 0,2 1,3 2,2 2,1 3,0 2,-1 2,-2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12388"
+         transform="translate(107,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d=""
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12390"
+         transform="translate(125,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m 8,-7 -1,-2 -2,-2 -2,-1 -4,0 -2,1 -2,2 -1,2 -1,3 0,5 1,3 1,2 2,2 2,1 L 3,9 5,8 7,6 8,4"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12392"
+         transform="translate(145,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M -5,-5 -5,5 -4,8 -2,9 1,9 3,8 6,5 M 6,-5 6,9"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12394"
+         transform="translate(160,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 0,-12 0,5 1,8 3,9 5,9 m -8,-14 7,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12396"
+         transform="translate(172,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 0,-12 0,5 1,8 3,9 5,9 m -8,-14 7,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12398"
+         transform="translate(183,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -1,-12 1,1 1,-1 -1,-1 -1,1 m 1,7 0,14"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12400"
+         transform="translate(196,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m -5,-5 0,14 m 0,-10 3,-3 2,-1 3,0 2,1 1,3 0,10"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12402"
+         transform="translate(215,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m 6,-5 0,16 -1,3 -1,1 -2,1 -3,0 -2,-1 M 6,-2 4,-4 2,-5 l -3,0 -2,1 -2,2 -1,3 0,2 1,3 2,2 2,1 3,0 2,-1 2,-2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12404"
+         transform="translate(233,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d=""
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12406"
+         transform="translate(249,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 0,-12 0,9 m -7,-21 14,0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12408"
+         transform="translate(266,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M -6,1 6,1 6,-1 5,-3 4,-4 2,-5 l -3,0 -2,1 -2,2 -1,3 0,2 1,3 2,2 2,1 3,0 2,-1 2,-2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12410"
+         transform="translate(283,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="m 6,-2 -1,-2 -3,-1 -3,0 -3,1 -1,2 1,2 2,1 L 3,2 5,3 6,5 6,6 5,8 2,9 -1,9 -4,8 -5,6"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12412"
+         transform="translate(297,0)"
+         style="fill:none;stroke:#00ffff;stroke-opacity:1"
+         d="M 0,-12 0,5 1,8 3,9 5,9 m -8,-14 7,0"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
